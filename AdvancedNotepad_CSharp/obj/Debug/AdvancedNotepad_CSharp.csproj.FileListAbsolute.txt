@@ -1,0 +1,141 @@
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe.config
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MainForm.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Properties.Resources.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.GenerateResource.Cache
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.pdb
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.exe
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.pdb
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.GoTo_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Find_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Replace_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Run_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.RunInBrowser_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.PreviewHTMLPage_Form.resources
+C:\Visual Studio Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.About_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe.config
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.exe
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.pdb
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.pdb
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.About_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Find_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.GoTo_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MainForm.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.PreviewHTMLPage_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Properties.Resources.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Replace_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.RunInBrowser_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Run_Form.resources
+C:\Users\Pritam\Downloads\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.GenerateResource.Cache
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe.config
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.exe
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.pdb
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.exe
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvancedNotepad_CSharp.pdb
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.About_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Find_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.GoTo_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MainForm.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.PreviewHTMLPage_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Properties.Resources.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Replace_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.RunInBrowser_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Run_Form.resources
+C:\Users\Pritam\Downloads\Programs\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.GenerateResource.Cache
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.About_Form.resources
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Find_Form.resources
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.GoTo_Form.resources
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MainForm.resources
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.PreviewHTMLPage_Form.resources
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Properties.Resources.resources
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Replace_Form.resources
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.RunInBrowser_Form.resources
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Run_Form.resources
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvanccedNotepad_CSharp.exe.config
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvanccedNotepad_CSharp.exe
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\AdvanccedNotepad_CSharp.pdb
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvanccedNotepad_CSharp.exe
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvanccedNotepad_CSharp.pdb
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\MySql.Data.DLL
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.CopyComplete
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Renci.SshNet.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Memory.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Zstandard.Net.dll
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Renci.SshNet.xml
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Memory.xml
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Downloads\AdvancedNotepad_CSharp_Custom\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.TabControlZ.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.About_Form.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Find_Form.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.GoTo_Form.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MainForm.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.MyRichTextBox.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.PreviewHTMLPage_Form.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Replace_Form.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.RunInBrowser_Form.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.Run_Form.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.TabControlZ.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Renci.SshNet.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Memory.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Zstandard.Net.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Renci.SshNet.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Memory.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.DatabaseNotes.resources
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Dear Diary.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Dear Diary.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\Dear Diary.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\Dear Diary.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\Dear Diary.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\CommandPrompt.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\ConsoleControl.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\ConsoleControlAPI.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\ConsoleControl.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\ConsoleControlAPI.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.ValueTuple.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\bin\Debug\System.ValueTuple.xml
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdvancedNotepad_CSharp\AdvancedNotepad_CSharp\obj\Debug\AdvancedNotepad_CSharp.csproj.AssemblyReference.cache
